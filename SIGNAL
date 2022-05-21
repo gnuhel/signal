@@ -1,5 +1,7 @@
-[//] Order|Date Time
-[Order]|SELL|2022-05-10 17:30:00
-[//] AccountId|Volume|DurationInSecs|Take Profit %
-[Account]|30005028|2.5|300|1
-[Account]|30005029]|0|600|1.2
+{
+  "orderType": "SELL",
+  "orderStartTime": "2022-05-10 17:30:00",
+  "orderEndTime": "2022-05-10 17:35:00",
+  "profit": 60,
+  "lots": 2.3
+}
